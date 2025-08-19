@@ -9,11 +9,9 @@ Given an array of integers nums and an integer target, return the indices of the
 
 Example:
 Input:
-
 nums = [2, 7, 11, 15], target = 9
 
 Output:
-
 Indices: [0, 1]
 Values: 2 + 7 = 9
 
